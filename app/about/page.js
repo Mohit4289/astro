@@ -56,7 +56,7 @@ export default function About() {
               accommodations.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              Founded by astronomy enthusiasts, we've carefully designed each property 
+              Founded by astronomy enthusiasts, we have carefully designed each property 
               to offer optimal stargazing conditions alongside modern amenities and 
               comfort.
             </p>
